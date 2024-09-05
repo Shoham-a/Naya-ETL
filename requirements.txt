@@ -1,7 +1,0 @@
-kaggle
-psycopg2
-pandas
-matplotlib
-seaborn
-urllib3
-logging
